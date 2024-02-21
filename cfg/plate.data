@@ -1,0 +1,5 @@
+classes= 1
+train  = ../plate_detection/yolo_train
+valid  = ../plate_detection/yolo_valid
+names = ../plate_detection/cfg/plate.names
+backup = ../plate_detection/weights/
